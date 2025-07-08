@@ -9,6 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app.swiggy</groupId>
+	<artifactId>swiggy-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>swiggy-application</name>
 	<description>swiggy delivery application</description>
